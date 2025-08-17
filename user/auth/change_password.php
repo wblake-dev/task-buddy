@@ -132,6 +132,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                             <span class="font-medium">Change Password</span>
                         </a>
                     </li>
+                    
                     <li>
                         <a href="logout.php" class="sidebar-link flex items-center gap-3 p-3 rounded-lg hover:bg-red-600">
                             <i class="fas fa-sign-out-alt"></i>
