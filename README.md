@@ -412,3 +412,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 **TaskBuddy** - Turning opinions into earnings, one survey at a time! 💰
 
 For more information, visit our [GitHub repository](https://github.com/wblake-dev/task-buddy) or contact the development team.
+
+
+
