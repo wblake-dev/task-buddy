@@ -510,4 +510,5 @@ if (isset($_SESSION['user_id']) && isset($_SESSION['last_activity'])) {
     </script>
 </body>
 
+
 </html>
